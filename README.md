@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laurie</h1>
 <h3 align="center">I am a student and a part-time back-end developer</h3>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Pecunia201&include_all_commits=true&hide_rank=true&hide_title=true&hide_border=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Pecunia201&include_all_commits=true&hide_rank=true&hide_title=true&hide_border=true&show_icons=true)
 ![Github Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Pecunia201&layout=compact&hide_title=true&hide_border=true)
 
 <h3 align="left">Languages and Tools:</h3>
